@@ -8,6 +8,6 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 
 ### be advised that this requires knowing what you're doing, along with browser devtools knowledge!
 - follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application and social sdk profile.
-- run `node enkaUser.js` to sync your genshin stats to discord thru [enka](https://enka.network/).
+- run `node src/enkaUser.js` to sync your genshin stats to discord thru [enka](https://enka.network/).
 - use a snippet from [discord previews server](https://discord.com/channels/603970300668805120/1509942620762276011) to add it to your profile!
 ---
