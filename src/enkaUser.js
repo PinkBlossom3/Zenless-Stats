@@ -28,7 +28,7 @@ async function syncGenshinStats() {
                     { type: 1, name: "aby_str", value: "Spiral Abyss" },
                     { type: 1, name: "aby", value: `${player.towerFloorIndex} - ${player.towerLevelIndex} (${player.towerStarIndex}★)` },
                     { type: 1, name: "img_str", value: "Imaginarium Theatre" },
-                    { type: 1, name: "img", value: `Theater: Act ${player.theaterActIndex}${player.theaterModeIndex === 104 ? '-2' : ''} (${player.theaterStarIndex}★)` },
+                    { type: 1, name: "img", value: `Act ${player.theaterActIndex}${player.theaterModeIndex === 104 ? '-2' : ''} (${player.theaterStarIndex}★)` },
                     { type: 1, name: "sty_str", value: "Stygian Onslaught" },
                     { type: 1, name: "sty", value: `Diff ${player.stygianIndex} - ${player.stygianSeconds}s` },
                     { type: 1, name: "sig", value: `"${player.signature}"` },
