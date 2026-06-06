@@ -10,4 +10,5 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 - follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application, social sdk profile and widget design.
 - run `node src/enkaUser.js` to sync your genshin stats to discord thru [enka](https://enka.network/).
 - use a snippet from [discord previews server](https://discord.com/channels/603970300668805120/1509942620762276011) to add it to your profile!
----
+----
+if you wish to update your stats, just run the program again and restart your discord to view changes.
