@@ -19,7 +19,7 @@ async function syncGenshinStats() {
             data: {
                 dynamic: [
                     { type: 1, name: "nickname", value: player.nickname },
-                    { type: 1, name: "uid", value: `UID: ${process.env.GENSHIN_UID}` },
+                    { type: 1, name: "uid", value: `UID ${process.env.GENSHIN_UID}` },
                     { type: 1, name: "world", value: `${region} - WL ${player.worldLevel}` },
                     { type: 1, name: "adv_str", value: "Adventure Rank" },
                     { type: 2, name: "adv", value: player.level },
