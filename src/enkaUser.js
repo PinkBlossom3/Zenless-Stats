@@ -24,7 +24,7 @@ async function syncGenshinStats() {
                     { type: 1, name: "adv_str", value: "Adventure Rank" },
                     { type: 2, name: "adv", value: player.level },
                     { type: 1, name: "ach_str", value: "Achievements" },
-                    { type: 2, name: "ach", value: player.finishAchievementNum },
+                    { type: 1, name: "ach", value: player.finishAchievementNum },
                     { type: 1, name: "aby_str", value: "Spiral Abyss" },
                     { type: 1, name: "aby", value: `${player.towerFloorIndex} - ${player.towerLevelIndex} (${player.towerStarIndex}★)` },
                     { type: 1, name: "img_str", value: "Imaginarium Theatre" },
