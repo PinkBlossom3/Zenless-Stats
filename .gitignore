@@ -1,2 +1,3 @@
+.env
 .DS_Store
-node_modules/enkanetwork.js/dist/cache/
+node_modules/
