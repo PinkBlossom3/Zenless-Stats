@@ -11,7 +11,9 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 # how to use?
 
 ### be advised that this requires knowing what you're doing, along with browser devtools knowledge!
-- follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application, social sdk profile and widget design.
+> the warning only applies if you are manually creating your widget!
+- use this [widget creation script](https://gist.github.com/aamiaa/7cdd590e3949cd654758bc90bcb4710b) by aamia.
+- if you want to manually go thru the creation process, follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application, social sdk profile and widget design.
 - clone this repo and create a .env file with your `GENSHIN_UID`, `DISCORD_BOT_TOKEN`, `DISCORD_USER_ID` and `DISCORD_CLIENT_ID`
 - run `node enkaUser.js` to sync your genshin stats to discord thru [enka](https://enka.network/).
 - use a snippet from [discord previews server](https://discord.com/channels/603970300668805120/1509942620762276011) to add it to your profile!
