@@ -14,8 +14,6 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 - 1a. use this [widget creation script](https://gist.github.com/aamiaa/7cdd590e3949cd654758bc90bcb4710b) by aamia. skip steps `1b` and `iv` if you are using this.
 - 1b. if you want to manually go thru the creation process, follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application, social sdk profile and widget design.
 - 2. clone this repo and create a .env file with your `ZENLESS_UID`, `HOYOLAB UID`, `DISCORD_BOT_TOKEN`, `DISCORD_USER_ID`, `DISCORD_CLIENT_ID` and `HOYOLAB_COOKIE`
-  
-     format  `HOYOLAB_COOKIE` like this: `"ltoken_v2=[cookie here]; ltuid_v2=[id here]; account_id_v2=[id here]; cookie_token_v2=[cookie here]`
 - 3. run `node enkaUser.js` to sync your zenless stats to discord thru HoYoLab API.
 - 4. use a snippet from [discord previews server](https://discord.com/channels/603970300668805120/1509942620762276011) to add it to your profile!
 ----
