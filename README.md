@@ -26,3 +26,7 @@ NA: `prod_gf_us`
 TW/HK/MO: `prod_gf_sg`
 
 may need to add a fallback for Interknot Level manually
+
+Can be further customised for Hollow Zero and other stats just configure `zenlessUser.js` to your liking by viewing the apis yourself. Made this for myself but decided to share! 
+
+Enjoy :D
