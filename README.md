@@ -19,4 +19,10 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 ----
 if you wish to update your stats, just run the program again and restart your discord to view changes.
 
+If you do not play on Asia server please change `prod_gf_jp` depending on your region to:
+
+EU: `prod_gf_eu`
+NA: `prod_gf_us`
+TW/HK/MO: `prod_gf_sg`
+
 may need to add a fallback for Interknot Level manually
