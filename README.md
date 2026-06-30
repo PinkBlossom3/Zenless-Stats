@@ -11,7 +11,7 @@ special thanks to @chloecinders, @aamia, @bignutty and @.dziurwa and the rest of
 
 ### be advised that this requires knowing what you're doing, along with browser devtools knowledge!
 > the warning only applies if you are manually creating your widget!
-- 1a. use this [widget creation script](https://gist.github.com/aamiaa/7cdd590e3949cd654758bc90bcb4710b) by aamia. skip steps `1b` and `iv` if you are using this.
+- 1a. use this [widget creation script](https://gist.github.com/aamiaa/7cdd590e3949cd654758bc90bcb4710b) by aamia. skip steps `1b` and `iv` if you are using this. 
 - 1b. if you want to manually go thru the creation process, follow the steps in this [blog post](https://chloecinders.com/blog/discord-widgets) by chloecinders to create your discord application, social sdk profile and widget design.
 - 2. clone or download this repo and create a .env file with your `ZENLESS_UID`, `HOYOLAB_UID`, `DISCORD_BOT_TOKEN`, `DISCORD_USER_ID`, `DISCORD_CLIENT_ID` and `HOYOLAB_COOKIE`
 - 3. run `node zenlessUser.js` to sync your zenless stats to discord thru HoYoLab API.
