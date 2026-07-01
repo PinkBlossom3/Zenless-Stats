@@ -25,6 +25,7 @@ EU: `prod_gf_eu`
 NA: `prod_gf_us`
 TW/HK/MO: `prod_gf_sg`
 
+Installing [Node.JS](https://nodejs.org/en/download) is required, also `pip install axios` & `pip install dotenv`
 may need to add a fallback for Interknot Level manually
 
 Can be further customised for Hollow Zero and other stats just configure `zenlessUser.js` to your liking by viewing the apis yourself. Made this for myself but decided to share! 
