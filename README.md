@@ -32,4 +32,7 @@ may need to add a fallback for Interknot Level manually
 
 Can be further customised for Hollow Zero and other stats just configure `zenlessUser.js` to your liking by viewing the apis yourself. Made this for myself but decided to share! 
 
+I'll try and update it to add more stats soon
+
+
 Enjoy :D
